@@ -9,6 +9,8 @@ Spacer (Nylon) 0.250"
 
 Spacer (Nylon) 0.375"
 
+Spacer (Nylon) 0.500"
+
 4.6mm spacer
 
 8mm spacer
